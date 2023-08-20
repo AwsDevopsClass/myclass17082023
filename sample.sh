@@ -1,5 +1,5 @@
 #!/bin/bash
-a=2
+a=5
 b=7
 if [ $a -ge $b ]
 then
