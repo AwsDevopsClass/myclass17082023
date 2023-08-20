@@ -1,6 +1,6 @@
 #!/bin/bash
 a=5
-b=7
+b=10
 if [ $a -ge $b ]
 then
   echo "The variable 'a' is greater than the variable 'b'."
